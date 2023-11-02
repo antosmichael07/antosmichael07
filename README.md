@@ -8,9 +8,9 @@
 > C
 
 ### What I use
-> <a href="https://code.visualstudio.com">Visual studio code</a>
+> Visual studio code
 >
-> <a href="https://www.getpaint.net">Paint.net</a>
+> Paint.net
 
 ### Good people
 > <a href="https://www.github.com/matej-kotrba">Matěj Kotrba </a>
