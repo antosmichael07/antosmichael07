@@ -1,16 +1,18 @@
-### Hi there 👋
+# Michael Antoš
 
-<!--
-**antosmichael07/antosmichael07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages I worked with
+> Javascript
+>
+> Go
+>
+> C
 
-Here are some ideas to get you started:
+### What I use
+> <a href="https://code.visualstudio.com">Visual studio code</a>
+>
+> <a href="https://www.getpaint.net">Paint.net</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Good people
+> <a href="https://www.github.com/matej-kotrba">Matěj Kotrba </a>
+>
+> <a href="https://www.github.com/it-2001">Daniel Antoš</a>
