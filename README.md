@@ -16,6 +16,8 @@
 > <a href="https://www.github.com/matej-kotrba">Matěj Kotrba </a>
 >
 > <a href="https://www.github.com/it-2001">Daniel Antoš</a>
+>
+> <a href="https://www.github.com/Shadow1088">Lukáš Jarnot</a>
 
 <br>
 
