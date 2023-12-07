@@ -18,6 +18,8 @@
 > <a href="https://www.github.com/it-2001">Daniel Antoš</a>
 >
 > <a href="https://www.github.com/Shadow1088">Lukáš Jarnot</a>
+>
+> <a href="https://github.com/Eliasko6562">Elias Constantine</a>
 
 <br>
 
