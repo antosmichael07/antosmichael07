@@ -6,6 +6,8 @@
 > Go
 >
 > C
+>
+> Lua
 
 ### What I use
 > Visual studio code
