@@ -1,11 +1,11 @@
 # Michael Antoš
 
 ### Languages I worked with
-> Javascript
->
 > Go
 >
 > C
+>
+> Javascript
 >
 > Lua
 
