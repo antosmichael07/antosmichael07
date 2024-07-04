@@ -1,6 +1,6 @@
 # Michael Antoš
 
-### Languages I worked with
+### Languages I work with
 > Go
 >
 > C
