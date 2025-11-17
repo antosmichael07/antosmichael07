@@ -1,21 +1,20 @@
-# Michael Antoš
+# bomboclat
 
-### Languages I work with
-> Go
->
-> C
->
-> Javascript
->
-> Lua
+dělám rád hry
 
-### What I use
-> Visual studio code
->
-> Paint.net
+## v čem
+- go
+- c
+- c++
 
-<br>
+## s čím
+- raylib
+- opengl
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=antosmichael07&show_icons=true&locale=en&layout=compact&theme=dark">
+## pomocí čeho
+- vscode
+- paintnet
+- blender
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=antosmichael07&theme=dark">
+## s kým
+-
